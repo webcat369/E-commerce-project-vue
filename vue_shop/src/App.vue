@@ -20,8 +20,6 @@ export default {
   name: 'app',
   components: {
     HelloWorld
-    // 我在develop分支 HelloWorld
-    // 哈哈哈
   }
 }
 </script>
